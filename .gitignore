@@ -1,0 +1,24 @@
+# Swift
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+
+# Docker
+*.swp
+docker-compose.override.yml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+.env
